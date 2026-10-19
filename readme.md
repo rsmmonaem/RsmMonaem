@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:2563eb&height=200&section=header&text=MOHAMMAD%20MUNAYAM%20SOWDAGOR&fontSize=34&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20Project%20Manager%20%7C%20SaaS%20%26%20AI%20Systems&descSize=15&descAlignY=59&animation=fadeIn" alt="Profile header" width="100%" />
+  <img src="https://avatars.githubusercontent.com/u/72827332?s=400&u=fa8d8e21c1b4da1899369a615db8c8994743509e&v=4" alt="Profile header" width="100%" />
 </div>
 
 <div align="center">
