@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/72827332?s=400&u=fa8d8e21c1b4da1899369a615db8c8994743509e&v=4" alt="Profile header" width="100%" />
-</div>
 
 <div align="center">
   <a href="https://github.com/Rsmmonaem"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
